@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Marius Pop full stack developer at [Pitech](https://www.pitechplus.com/en/)
+
+- 🔭 I’m currently working with [Symfony](https://symfony.com/) and [React](https://reactjs.org/)
+- 🌱 I’m also interested in [Nodejs](https://nodejs.org/en/)
+- ⚡ Fun fact: favorite childhook character [Dexter](https://en.wikipedia.org/wiki/Dexter%27s_Laboratory)
 
 <!--
 **mariuspop86/mariuspop86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
