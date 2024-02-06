@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Marius Pop full stack developer at [Pitech](https://www.pitechplus.com/en/)
+I'm Marius Pop full stack developer at [Pitech](https://www.pitechplus.com/)
 
 - 🔭 I’m currently working with [Symfony](https://symfony.com/) and [React](https://reactjs.org/)
 - 🌱 I’m also interested in [Nodejs](https://nodejs.org/en/)
